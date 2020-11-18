@@ -38,12 +38,12 @@ Para poder usar el programa, se deben de tomar en cuenta varios elementos, los c
 	S -> abS
 	S -> a
 Donde:
-  Funciones de producción: 2
-  Simbolo inicial: S
-  Funcion 0:
-    Lado izquierdo de la función: S
-    Lado derecho de la función: abS
-  Funcion 1:
-    Lado izquierdo de la función: S
-    Lado derecho de la función: a
+  * Funciones de producción: 2
+  * Simbolo inicial: S
+  * Funcion 0:
+  ``` Lado izquierdo de la función: S ```
+  ``` Lado derecho de la función: abS ```
+  * Funcion 1:
+  ``` Lado izquierdo de la función: S ```
+  ``` Lado derecho de la función: a ```
 ### RESULTADO: TIPO 3
