@@ -46,4 +46,4 @@ Donde:
   * Funcion 1:
   ``` Lado izquierdo de la función: S ```
   ``` Lado derecho de la función: a ```
-### RESULTADO: TIPO 3
+  * RESULTADO: TIPO 3
