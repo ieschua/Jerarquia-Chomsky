@@ -1,6 +1,6 @@
 # Jerarquia-Chomsky
 
-Según Noam Chomosky, hay cuatro tipos de gramáticas: tipo 0, tipo 1, tipo 2 y tipo 3.
+Según Noam Chomsky, hay cuatro tipos de gramáticas: tipo 0, 1, 2 y 3.
 
 Difieren de la siguiente manera:	 
 
