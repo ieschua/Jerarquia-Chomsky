@@ -1,0 +1,14 @@
+EJEMPLOS:
+
+TIPO 0:
+	Baa -> A 
+TIPO 1: 
+	At -> aA
+TIPO 2: 
+	S -> SA
+	S -> A
+	A -> bSe
+	A -> be
+TIPO 3: 
+	S -> abS
+	S -> a
